@@ -6,43 +6,43 @@ The following methodology was used in this assignment:
 
 ![Methodology Diagram](assets/method.png)
 
-Explanation:
+## Explanation:
 
--The dataset was collected from the provided GitHub repository.
--Class imbalance in the dataset was identified and analyzed.
--Different sampling techniques were applied to balance the dataset.
--Multiple machine learning models were trained on the sampled data.
--Model performance was evaluated and compared using accuracy.
+- The dataset was collected from the provided GitHub repository.
+- Class imbalance in the dataset was identified and analyzed.
+- Different sampling techniques were applied to balance the dataset.
+- Multiple machine learning models were trained on the sampled data.
+- Model performance was evaluated and compared using accuracy.
 
 ---
 
 ## 2. Description
 
--Dataset Used: Credit Card Fraud Detection Dataset
--Target Variable: Class
+- Dataset Used: Credit Card Fraud Detection Dataset
+- Target Variable: Class
     Class 0 → Non-Fraud
     Class 1 → Fraud
--Nature of Dataset: Highly imbalanced
+- Nature of Dataset: Highly imbalanced
 
 Class Imbalance in Dataset
 ![Balanced Dataset](assets/class_balance.png)
 
 ## Sampling Techniques Used
 
--Random Undersampling
--Random Oversampling
--SMOTE
--SMOTEENN
--NearMiss
+- Random Undersampling
+- Random Oversampling
+- SMOTE
+- SMOTEENN
+- NearMiss
 
 
 ## Machine Learning Models Used
 
--Logistic Regression
--Decision Tree
--Random Forest
--K-Nearest Neighbors (KNN)
--Support Vector Machine (SVM)
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
 
 Evaluation Metric: Accuracy
 
@@ -60,14 +60,14 @@ After applying sampling techniques, the dataset becomes balanced with nearly equ
 
 ## Input
 
--Numerical transaction features
--Imbalanced class labels (fraud and non-fraud)
+- Numerical transaction features
+- Imbalanced class labels (fraud and non-fraud)
 
 ## Output
 
--Balanced datasets after sampling
--Accuracy scores for each model and sampling technique
--Comparative result table and graphs
+- Balanced datasets after sampling
+- Accuracy scores for each model and sampling technique
+- Comparative result table and graphs
 
 ---
 
@@ -92,10 +92,10 @@ The table below shows the accuracy (%) of different machine learning models unde
 
 ## 7. Observations
 
--Model performance varies with different sampling techniques.
--Oversampling and hybrid methods generally improve accuracy on imbalanced data.
--Undersampling can reduce performance due to loss of important information.
--Choosing an appropriate sampling technique is crucial for reliable results.
+- Model performance varies with different sampling techniques.
+- Oversampling and hybrid methods generally improve accuracy on imbalanced data.
+- Undersampling can reduce performance due to loss of important information.
+- Choosing an appropriate sampling technique is crucial for reliable results.
 
 ---
 
