@@ -24,7 +24,7 @@ The following methodology was used in this assignment:
     Class 1 → Fraud
 - Nature of Dataset: Highly imbalanced
 
-Class Imbalance in Dataset
+## Class Imbalance in Dataset
 ![Balanced Dataset](assets/class_balance.png)
 
 ## Sampling Techniques Used
