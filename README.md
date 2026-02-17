@@ -25,8 +25,7 @@ The following methodology was used in this assignment:
 - Nature of Dataset: Highly imbalanced
 
 ## Class Imbalance in Dataset
-![Balanced Dataset](assets/class_balance.png)
-
+![Class Imbalance](assets/class_imbalance.png)
 ## Sampling Techniques Used
 
 - Random Undersampling
